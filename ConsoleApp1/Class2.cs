@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Class1
+    class Class2
     {
-        public Class1()
-        {
-            int g = 9;
-        }
+        int c;
     }
 }
